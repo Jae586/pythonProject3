@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-TOKEN = "OTc5ODc4MjA0NzU4MTg0MDI2.GJAP_e.-QfBJkqjggrfKgTej9pnFuNO2dDW9beswwHVKY"
+TOKEN = ""
 bad_Words = ['poop', 'bad']
 
 
